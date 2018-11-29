@@ -92,4 +92,5 @@ C2.trunkStateDecrease (weight: 20)
 C2.showModel()
 C2.showDate()
 C2.showTrunkStatus()
+C2.ShowInfo()
 
